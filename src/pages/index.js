@@ -54,7 +54,11 @@ const IndexPage = () => (
 
     <div>
       <a
+<<<<<<< HEAD
         href="/static/pdfs/netlify-enterprise-performance-site-performance.pdf"
+=======
+        href="/static/netlify-enterprise-performance-site-performance.pdf"
+>>>>>>> 7778d79 (File upload using LFS)
         download
       >
         <p>download pdf</p>
