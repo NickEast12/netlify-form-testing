@@ -51,6 +51,15 @@ const IndexPage = () => (
         </button>
       </div>
     </form>
+
+    <div>
+      <a
+        href="/static/netlify-enterprise-performance-site-performance.pdf"
+        download
+      >
+        <p>download pdf</p>
+      </a>
+    </div>
   </Layout>
 )
 
