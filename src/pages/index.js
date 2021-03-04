@@ -54,11 +54,7 @@ const IndexPage = () => (
 
     <div>
       <a
-<<<<<<< HEAD
-        href="static/pdfs/netlify-enterprise-performance-site-performance.pdf"
-=======
         href="/static/pdfs/netlify-enterprise-performance-site-performance.pdf"
->>>>>>> 3ad9e51a6171a839d2099f22a6c23ae5f62e711b
         download
       >
         <p>download pdf</p>
