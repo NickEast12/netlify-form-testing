@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
+import File from "../static/pdfs/netlify-enterprise-performance-site-performance.pdf"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
@@ -53,6 +54,9 @@ const IndexPage = () => (
     </form>
 
     <div>
+      <a href={File} download>
+        CLick here
+      </a>
       <a
         href="/static/pdfs/netlify-enterprise-performance-site-performance.pdf"
         download
