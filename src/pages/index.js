@@ -54,7 +54,7 @@ const IndexPage = () => (
 
     <div>
       <a
-        href="/static/pdfs/netlify-enterprise-performance-site-performance.pdf"
+        href="static/pdfs/netlify-enterprise-performance-site-performance.pdf"
         download
       >
         <p>download pdf</p>
