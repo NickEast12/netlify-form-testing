@@ -67,6 +67,9 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+<<<<<<< HEAD
 
 # Local Netlify folder
 .netlify
+=======
+>>>>>>> bc10c8e (Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git))
